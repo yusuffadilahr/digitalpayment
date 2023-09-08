@@ -1,0 +1,27 @@
+.services-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.service-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+    text-align: center;
+}
+
+.service-icon {
+    width: 50px;
+    margin-bottom: 5px;
+}
+
+.service-icon img {
+    max-width: 100%;
+}
+
+.service-name {
+    max-width: 100px;
+}

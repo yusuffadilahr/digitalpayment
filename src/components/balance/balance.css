@@ -1,0 +1,64 @@
+.balance-container {
+    position: relative;
+}
+
+.balance-box {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 2px;
+    text-align: center;
+    position: relative;
+    margin-left: 30px;
+}
+
+.balance-text {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 30px;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.balance-text-rp {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+    font-size: 30px;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 75px;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.saldo-text {
+    position: absolute;
+    top: 15%;
+    font-size: 20px;
+    margin-left: 40px;
+    color: white;
+}
+
+.saldo-hide {
+    display: flex;
+    position: absolute;
+    bottom: 18%;
+    left: 33px;
+    font-size: small;
+    text-decoration: none;
+    color: white;
+}
+
+.saldo-hide:hover {
+    text-decoration: underline;
+}
+

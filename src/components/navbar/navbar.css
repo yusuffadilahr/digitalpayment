@@ -1,0 +1,56 @@
+.navbar-container {
+    background-color: #fff; 
+  }
+  
+  .navbar-brand img {
+    margin-top: -1px;
+  }
+  
+  .navbar-toggler {
+    color: #000; 
+  }
+  
+  .navbar-toggler:focus {
+    outline: none;
+  }
+  
+  .nav-link {
+    color: #000;
+    font-weight: bold;
+    text-decoration: none; 
+  }
+  
+  .nav-link:hover {
+    color: #b30000;
+  }
+  
+  .btn-link {
+    color: #000000;
+    font-weight: bold;
+    text-decoration: none; 
+  }
+  
+  .btn-link:hover {
+    text-decoration: none;
+    color: #b30000;
+  }
+  
+  .btn-primary {
+    background-color: #007bff; 
+    border-color: #007bff; 
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3; 
+    border-color: #0056b3;
+  }
+  
+  .btn-dark {
+    background-color: #343a40; 
+    border-color: #343a40; 
+  }
+  
+  .btn-dark:hover {
+    background-color: #1d2124; 
+    border-color: #1d2124;
+  }

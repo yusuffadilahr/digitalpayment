@@ -1,0 +1,53 @@
+.container-profile {
+    margin-bottom: 90px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.card{
+    margin-top: 20px;
+    margin-bottom: 80px;
+    padding: 20px;
+    border-radius: 5px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.btn-edit {
+    
+    background-color: rgb(255, 255, 255);
+    border-color: #dd0808;
+    border-radius: 5px;
+    color: #dd0808;
+    font-weight: bold;
+    padding: 5px 10px;
+    text-decoration: none;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.btn-edit:hover{
+    background-color: rgb(134, 132, 132);
+    color: #ffffff;
+    border-color: black;
+}
+
+.btn-logout {
+    background-color: rgb(209, 15, 15);
+    border-radius: 5px;
+    color: #ffffff;
+    font-weight: bold;
+    padding: 5px 10px;
+    text-decoration: none;
+    width: 100%
+}
+
+.btn-logout:hover{
+    background-color: rgb(121, 7, 7);
+}
+
+.card-body {
+    margin-left: 80px;
+    margin-right: 80px;
+}
